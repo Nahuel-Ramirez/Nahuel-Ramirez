@@ -22,15 +22,13 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
   <h2>Let's talk!</h2>
 </div>
 <div align="center">Let's connect with linkedin and if you want you can send me an email!🫡</div>
-<hr>
-<Br>
-
 <p>
  <img alt="Static Badge" src="https://badgen.net/static/E-mail/nahuel-ramirez@hotmail.com/orange">
-  <a src="https://www.linkedin.com/in/nahuel-n-ramirez">  
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Let's Connect!-blue?link=https://www.linkedin.com/in/nahuel-n-ramirez">
-  </a>
 </p>
+
+<hr>
+<Br>
 
 <div align="center">
   <h2>My stack!🛠️</h2>
@@ -44,7 +42,14 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 | ![javascript_icon_130900](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/9bf6cfbf-324c-4eec-9e2b-6a1a5ff66482) | ![file_type_maven_icon_130397](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/279be1f9-3562-4491-a9af-5f1c146172a4) |
 |  ![java](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/cc54ef82-5c6d-406d-b64c-21ef5728b59b) | ![npm_original_wordmark_logo_icon_146402](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/783f5af4-3670-4a0f-83a9-d631c888de1c) |
 | ![mysql_original_wordmark_logo_icon_146417](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/eca6589c-6ade-4676-b860-15ccd7a24eb5) |  |
+
+<hr>
+<Br>
   
+<div align="center">
+  <h2>🧑‍💻My projects!💼</h2>
+</div>
+
 
 
 
