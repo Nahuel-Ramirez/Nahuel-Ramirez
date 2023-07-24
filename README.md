@@ -32,6 +32,9 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 </div>
 <p>I use this stack for development and improve my skills in my projects!
 <img alt="java-icon" src="C:\Users\Usuario\Desktop\icons\java.png">
+![java](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/cc54ef82-5c6d-406d-b64c-21ef5728b59b)
+
+
 
 </p>
 
