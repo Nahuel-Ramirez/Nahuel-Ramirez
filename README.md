@@ -3,6 +3,18 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnahuel-n-ramirez">
 </div>
 
+<Br>
+<h1>About Me! 😁</h1>
+
+- 🏫: I'm a student of a technical programmer.
+- 🔭: I'm still learning and I want to work in this field.
+- 👨‍💻: I’m currently learning Fullstack with java and react!📚
+- 🤔: I am looking for a job that will give me the opportunity to gain experience.😅
+- 💬: Ask me about Web development, Java projects and Football! 🧑‍💻⚽😀
+  
+<hr>
+<Br>
+
 <!--
 **Nahuel-Ramirez/Nahuel-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
