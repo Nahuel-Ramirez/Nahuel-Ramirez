@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hi there, Welcome to my GitHub profile! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+</div>
 <Br>
 
+<div align="center">
 <h2>About Me! 😁</h2>
 </div>
 <Br>
