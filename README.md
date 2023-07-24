@@ -1,4 +1,8 @@
-<h1><div style="align-items-center">¡Hola a todos!</div></h1>
+<div align="center">
+  <h1>Hi there, Welcome to my GitHub profile!</h1>
+  <a href="https://img.shields.io/badge/LinkedIn-Conectemos!-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnahuel-n-ramirez
+"></a>
+</div>
 
 <!--
 **Nahuel-Ramirez/Nahuel-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
