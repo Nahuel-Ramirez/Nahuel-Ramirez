@@ -34,6 +34,8 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
   
 ![java](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/cc54ef82-5c6d-406d-b64c-21ef5728b59b)
 
+![react_original_logo_icon_146374](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/b3b156e0-517b-4b75-9cb2-796d438720b6)
+
 
 
 
