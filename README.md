@@ -21,7 +21,7 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 
 <div align="center">
   <h2>Let's talk!</h2>
-  <a>https://badgen.net/static/E-mail/nahuel-ramirez@hotmail.com/orange</a>
+ <img alt="Static Badge" src="https://badgen.net/static/E-mail/nahuel-ramirez@hotmail.com/orange">
 </div>
 
 <!--
