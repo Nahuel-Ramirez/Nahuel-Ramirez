@@ -35,7 +35,7 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 </div>
 <p>I use this stack for development and improve my skills in my projects!</p>
 
-| Languages | Frameworks |
+| Languages | Frameworks/Libraries/Tools |
 | :----:    | :----:     |
 | ![file_type_html_icon_130541 (1)](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/54f76b9a-f4af-43a5-b1fe-dc4266becd8a) | ![react_original_logo_icon_146374](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/b3b156e0-517b-4b75-9cb2-796d438720b6) |
 | ![file_type_css_icon_130661](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/91eb1ec4-2996-4daa-82dd-532aa976f5e9)          | ![boot_spring_logo_icon_214693](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/8bcee303-d53e-46ad-84a6-1187d549b98c) |
