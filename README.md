@@ -14,7 +14,7 @@
 - 🤔: I am looking for a job that will give me the opportunity to gain experience.😅
 - 💬: Ask me about Web development, Java projects and Soccer! 🧑‍💻⚽😀.
 
-I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer. My fauvorite soccer team is River Plate ⚪🔴⚪
+I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer. My favourite soccer team is River Plate ⚪🔴⚪
 
 - 💼: My goals is to be a great backend developer! 👌
   
