@@ -39,16 +39,19 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 | :----:    | :----:     |
 | ![file_type_html_icon_130541 (1)](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/54f76b9a-f4af-43a5-b1fe-dc4266becd8a) | ![react_original_logo_icon_146374](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/b3b156e0-517b-4b75-9cb2-796d438720b6) |
 | ![file_type_css_icon_130661](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/91eb1ec4-2996-4daa-82dd-532aa976f5e9)          | ![boot_spring_logo_icon_214693](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/8bcee303-d53e-46ad-84a6-1187d549b98c) |
+| ![javascript_icon_130900](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/9bf6cfbf-324c-4eec-9e2b-6a1a5ff66482) |    .  |
+|  ![java](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/cc54ef82-5c6d-406d-b64c-21ef5728b59b) |   .   |
+| ![mysql_original_wordmark_logo_icon_146417](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/eca6589c-6ade-4676-b860-15ccd7a24eb5) | . |
   
-![java](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/cc54ef82-5c6d-406d-b64c-21ef5728b59b) 
+
+ 
+
  
 
  
 
  
-![mysql_original_wordmark_logo_icon_146417](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/eca6589c-6ade-4676-b860-15ccd7a24eb5)
- 
-![javascript_icon_130900](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/9bf6cfbf-324c-4eec-9e2b-6a1a5ff66482)
+
  
 
  
