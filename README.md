@@ -30,19 +30,21 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 <div align="center">
   <h2>My stack!🛠️</h2>
 </div>
-<p>I use this stack for development and improve my skills in my projects!
+<p>I use this stack for development and improve my skills in my projects!</p>
 <p>
   
 ![java](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/cc54ef82-5c6d-406d-b64c-21ef5728b59b)
 </p>
 
+<p>
+  
 ![react_original_logo_icon_146374](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/b3b156e0-517b-4b75-9cb2-796d438720b6)
-
-
-
-
-
 </p>
+
+
+
+
+
 
 <!--
 **Nahuel-Ramirez/Nahuel-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
