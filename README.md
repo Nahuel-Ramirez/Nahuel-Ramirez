@@ -31,8 +31,8 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
   <h2>My stack!🛠️</h2>
 </div>
 <p>I use this stack for development and improve my skills in my projects!
-<img alt="java-icon" src="![image](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/3f4cbbfa-1c41-4b7d-bedd-c4f8f3c51f8b)
-">
+|![image](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/eacc07bf-e0dd-492d-bbcc-25a0f162d14f)
+
 </p>
 
 <!--
