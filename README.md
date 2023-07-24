@@ -8,14 +8,21 @@
 
 - 🏫: I'm a student of a technical programmer.
 - 🔭: I'm still learning and I want to work in this field.
-- 👨‍💻: I’m currently learning Fullstack with java and react!📚
+- 🖥️: I’m currently learning Fullstack with java and react!📚
 - 🤔: I am looking for a job that will give me the opportunity to gain experience.😅
 - 💬: Ask me about Web development, Java projects and Football! 🧑‍💻⚽😀.
 
 I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer. My fauvorite soccer team is River Plate ⚪🔴⚪
+
+- 💼: My goals is to be a great backend developer! 👌
   
 <hr>
 <Br>
+
+<div align="center">
+  <h2>Let's talk!</h2>
+  <a>https://badgen.net/static/E-mail/nahuel-ramirez@hotmail.com/orange</a>
+</div>
 
 <!--
 **Nahuel-Ramirez/Nahuel-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
