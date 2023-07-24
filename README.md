@@ -10,7 +10,9 @@
 - 🔭: I'm still learning and I want to work in this field.
 - 👨‍💻: I’m currently learning Fullstack with java and react!📚
 - 🤔: I am looking for a job that will give me the opportunity to gain experience.😅
-- 💬: Ask me about Web development, Java projects and Football! 🧑‍💻⚽😀
+- 💬: Ask me about Web development, Java projects and Football! 🧑‍💻⚽😀.
+
+I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer. My fauvorite soccer team is River Plate ⚪🔴⚪
   
 <hr>
 <Br>
