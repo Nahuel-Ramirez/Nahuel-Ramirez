@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi there, Welcome to my GitHub profile!</h1>
-  <a href="https://img.shields.io/badge/LinkedIn-Conectemos!-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnahuel-n-ramirez
-"></a>
+ https://img.shields.io/badge/LinkedIn-Conectemos!-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnahuel-n-ramirez
 </div>
 
 <!--
