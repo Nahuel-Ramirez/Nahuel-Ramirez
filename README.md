@@ -25,8 +25,15 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
  <img alt="Static Badge" src="https://badgen.net/static/E-mail/nahuel-ramirez@hotmail.com/orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-blue?        link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnahuel-n-ramirez">
 </p>
-<div align="center">Let's connect with linkedin and if you want you can send me an email!</div>
+<div align="center">Let's connect with linkedin and if you want you can send me an email!🫡</div>
 
+<div align="center">
+  <h2>My stack!🛠️</h2>
+</div>
+<p>I use this stack for development and improve my skills in my projects!
+<img alt="java-icon" src="![image](https://github.com/Nahuel-Ramirez/Nahuel-Ramirez/assets/86963106/3f4cbbfa-1c41-4b7d-bedd-c4f8f3c51f8b)
+">
+</p>
 
 <!--
 **Nahuel-Ramirez/Nahuel-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
