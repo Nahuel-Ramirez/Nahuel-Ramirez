@@ -22,6 +22,7 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
   <h2>Let's talk!</h2>
 </div>
 <div align="center">Let's connect with linkedin and if you want you can send me an email!🫡</div>
+<Br>
 <p>
  <img alt="Static Badge" src="https://badgen.net/static/E-mail/nahuel-ramirez@hotmail.com/orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Let's Connect!-blue?link=https://www.linkedin.com/in/nahuel-n-ramirez">
