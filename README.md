@@ -49,6 +49,8 @@ I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer
 
 <hr>
 <Br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel-Ramirez&hide=scss,jupyter%20notebook&layout=compact&theme=gruvbox)](https://github.com/Nahuel-Ramirez)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahuel-Ramirez&show_icons=true&theme=gruvbox)
 
