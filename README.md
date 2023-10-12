@@ -16,7 +16,7 @@
 
 I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer. My favourite soccer team is River Plate ⚪🔴⚪
 
-- 💼: My goals is to be a great backend developer! 👌
+- 💼: My goals is to be a great backend developer but also I know center a div! 😂 👌
   
 <hr>
 <Br>
