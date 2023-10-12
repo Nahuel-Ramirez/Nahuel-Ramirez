@@ -8,7 +8,7 @@
 </div>
 <Br>
 
-- 🏫: I'm a student of a technical programmer.
+- 🏫: I'm a student of a technical programming.
 - 🔭: I'm still learning and I want to work in this field.
 - 🖥️: I’m currently learning Fullstack with java and react!📚
 - 🤔: I am looking for a job that will give me the opportunity to gain experience.😅
@@ -16,7 +16,7 @@
 
 I'm from Buenos Aires, Argentina, I love travel, play videogames and play soccer. My favourite soccer team is River Plate ⚪🔴⚪
 
-- 💼: My goals is to be a great backend developer but also I know center a div! 😂 👌
+- 💼: My goals is to be a great backend developer but I also know how to center a div! 😂 👌
   
 <hr>
 <Br>
